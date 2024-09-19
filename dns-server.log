@@ -1,0 +1,15 @@
+{"level":"info","message":"DNS Server is running on port 53","timestamp":"2024-09-17T08:47:59.132Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:47:59.138Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:47:59.191Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:47:59.294Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:47:59.449Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:47:59.652Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:47:59.905Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:48:00.209Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:48:00.562Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:48:00.968Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:48:01.422Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:48:01.926Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:48:02.480Z"}
+{"error":"connect ECONNREFUSED 127.0.0.1:6379","level":"error","message":"Redis Client Error","timestamp":"2024-09-17T08:48:03.082Z"}
+{"level":"info","message":"Shutting down DNS server...","timestamp":"2024-09-17T08:48:03.329Z"}
